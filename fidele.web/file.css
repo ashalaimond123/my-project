@@ -1,0 +1,156 @@
+.h1 {
+  background-color:none;
+  color: green;
+  text-align: center;
+
+  text-decoration: underline;
+}
+
+.body {
+  background-image:  url("as.jpg");
+  border: 2px solid black;
+  margin: 20px;
+  background-size: cover;
+   
+
+}
+
+ .container {
+background-color:white;
+  border: 2px solid white;
+  margin: 20px;
+  width: 25%;
+ float: left;}
+
+.p-box {
+  width: 33.3%;
+
+}
+
+.nav {
+  background-color:white;
+  padding: 25px;
+  margin:15px 20px;
+}
+
+
+.nav li {
+  display: inline;
+margin-right: 70px;
+
+}
+.nav a{
+  text-decoration: none;
+  color: green;
+text-transform:uppercase;
+  padding: 10px;
+  font-weight: bold;
+  border: 2px solid white;
+  background-color: orange;
+
+
+}
+a:hover {
+  background-color: white;
+  color: green;
+
+}
+.footer {
+   background-color:solid green;
+  color: blue;
+  text-align: left;
+  border: 2px solid black;
+  font-weight: bold;
+  background-color: black;
+  height: 120px;
+
+}
+#p {
+  
+text-align: center;
+}
+
+  /*background-color:blue;
+  float:left;
+  width:250px;
+  border:1px solid white;
+  height:50px;
+  line-height:50px;
+  text-align:center;
+  font-size:20px;
+  color: white;
+  text-decoration: none;
+  }
+ li a
+{
+color:#fff;
+text-decoration: none;
+}
+ ul li:hover
+{
+background-color:green;
+}
+ ul a:hover
+{
+color:white;
+text-decoration:none;
+}
+ ul ol
+{
+display:none;
+}
+ ul li:hover ol
+{
+display:block;
+list-style-type: none;
+}
+ input:required:invalid, input:focus:invalid {
+background-image: url(imgz/nok.png);
+background-position: right top;
+    background-repeat: no-repeat;
+    -moz-box-shadow: none;
+  border-color:red;
+}
+  input:required:valid {
+    background-image: url(imgz/ok.png);
+background-position: right top;
+    background-repeat: no-repeat;
+  border-color:green;
+    }
+    fieldset
+    {
+    width:650px;
+    margin-left:300px;
+     margin-top:50px;
+     border-radius:8px;
+     border:solid 0.5px grey;
+     background-color: #f2f2f2;
+    }
+    input[type=submit]:hover {
+  background-color:white;
+}
+input[type=reset]:hover {
+  background-color:white;
+}
+  input[type=text],[type=email],[type=password],[type=number] {
+  width:500px;
+  height:30px;
+  text-align:center;
+  font-style:bold;
+  padding: 12px 20px;
+  margin: 8px 0;
+  border:solid 1px;
+  box-sizing: border-box;
+  border-radius:8px;
+ } 
+
+input[type=submit],[type=reset] {
+  width:200px;
+  height:30px;
+  text-align:center;
+   margin: 8px 0;
+  box-sizing: border-box;
+  border-radius:8px;
+  border:solid 1px white;
+} 
+*/
